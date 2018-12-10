@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT o2772781nwytgnet_o2772781__462.wsgi:application
